@@ -2,7 +2,7 @@
 """
 Week 01 Exercise 07
 
-Python module that reads both a YAML file and the JSON file  and pretty prints
+Python script that reads both a YAML file and the JSON file  and pretty prints
 the data structure that is returned.
 """
 
